@@ -1,0 +1,49 @@
+.mt5 {
+  margin-top: 5px;
+}
+.mt10 {
+  margin-top: 10px;
+}
+.mt15 {
+  margin-top: 15px;
+}
+.ml10 {
+  margin-left: 10px;
+}
+.w100 {
+  width: 100px !important;
+}
+.bdb {
+  border-bottom: 1px solid #ccc;
+}
+button.btn:focus {
+  outline: none;
+}
+a.disabled:hover {
+  cursor: not-allowed;
+}
+.content {
+  display: inline-block;
+  min-height: calc(100vh - 81px);
+  width: calc(100vw - 230px);
+  /*border-left: 1px solid #eee;*/
+  /*background: #eee;*/
+  float: right;
+  padding: 15px;
+}
+.asterisk {
+  color: red !important;
+}
+.bg-muted{
+  background: #f4f4f4 !important;
+}
+.warn-color{
+  color:red;
+}
+
+.check-color{
+  color:green;
+}
+table tr td {
+  word-break: break-word;
+}
